@@ -7,4 +7,5 @@ When a drop-down list is inactive, it displays a single value. When activated, i
 
 
 
+
  #### diagram represent the dropdownlist menu 
