@@ -167,6 +167,11 @@ public class CustomAdapter extends BaseAdapter {
     }
 }
 
+# documentation regarding steps 
+
+
+
+
 
 
 ### Output:
