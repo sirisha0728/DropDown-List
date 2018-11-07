@@ -59,7 +59,7 @@ Create a new layout activity in res-> layout and name it custom_spinner_items.xm
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:padding="@dimen/activity_horizontal_margin"
-        android:text="Demo"
+        android:text="countryNames"
         android:textColor="#000" />
 </LinearLayout>
 
@@ -175,7 +175,7 @@ public class CustomAdapter extends BaseAdapter {
 
 ## Limitation 
 
-spinner shows the number of items which ever the user given but it collapses the app .So if I want to  show only three items remaining are scrollabe but it doesnt show all the items at atime because of space occupation. So that why by using ArrayAdapter we can display the list.
+spinner shows the number of items which ever the user given but it collapses the app .So if I want to  show only three items remaining are scrollabe but it doesnt show all the items at a time because of space occupation. So that by using ArrayAdapter we can display the list.
 
 ### Output:
 
@@ -188,7 +188,7 @@ https://media.giphy.com/media/4JVQ69mhL0iss5ox2Y/giphy.gif
 
 # Team Members 
 
-1. M.Mahender Reddy  (1794805) Design and code, Readme.md 
+1. M.Mahender Reddy  (1794805) Design , code , Readme.md and documentation.
 2. M.Sirisha         (1794858) design , Readme.md and documentation.
-3. K.Bala Kavya      (1794948) uploaded project in github through android studio and Readme.md and documentation .
+3. K.Bala Kavya      (1794948) uploaded project in github through android studio , code,Readme.md ,documentation .
 
