@@ -178,7 +178,7 @@ spinner shows the number of items which ever the user given but it collapses the
 
 ### Output:
 
-Now run the app (press play button on right top corner)in Emulator/AVD and you will see the custom spinner displaying flags and country names together. Change country names inside spinner and you will see Toast displaying message which country is selected.
+Now run the app **shift +F10 * in Emulator/AVD and you will see the custom spinner displaying flags and country names together. Change country names inside spinner and you will see Toast displaying message which country is selected.
 
 https://media.giphy.com/media/4JVQ69mhL0iss5ox2Y/giphy.gif
 
