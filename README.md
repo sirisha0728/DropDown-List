@@ -176,11 +176,14 @@ public class CustomAdapter extends BaseAdapter {
 
 spinner shows the number of items which ever the user given but it collapses the app .So if I want to  show only three items remaining are scrollabe but it doesnt show all the items at atime because of space occupation. So that why by using ArrayAdapter we can display the list.
 
-
-
 ### Output:
 
 Now run the app (press play button on right top corner)in Emulator/AVD and you will see the custom spinner displaying flags and country names together. Change country names inside spinner and you will see Toast displaying message which country is selected.
 
 https://media.giphy.com/media/4JVQ69mhL0iss5ox2Y/giphy.gif
 
+# Team Members 
+
+1. K.Bala Kavya      (1794948)
+2. M.Sirisha         (1794858)
+3 .M.Mahender Reddy  (1794805)
