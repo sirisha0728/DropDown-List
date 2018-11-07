@@ -5,10 +5,13 @@
 A drop-down list, similar to a list box, that allows the user to choose one value from a list
 When a drop-down list is inactive, it displays a single value. When activated, it displays (drops down) a list of values, from which the user may select one. 
 
+![media](https://user-images.githubusercontent.com/36668690/48109858-f77dea80-e1fd-11e8-8b8b-c38fa0400fa0.gif)
 
-![screeen](https://user-images.githubusercontent.com/36668690/48099471-7c540e80-e1d4-11e8-91f1-43f96730dc0a.JPG)
 
- #### diagram represent the dropdownlist menu 
+
+
+
+ #### above gif represent the dropdownlist menu 
 
 ## Steps to make it work
  
@@ -177,7 +180,7 @@ spinner shows the number of items which ever the user given but it collapses the
 
 Now run the app (press play button on right top corner)in Emulator/AVD and you will see the custom spinner displaying flags and country names together. Change country names inside spinner and you will see Toast displaying message which country is selected.
 
-![media1](https://user-images.githubusercontent.com/36668690/48105552-d5c83780-e1ec-11e8-81e8-95f6fc21ef39.gif)
+![media](https://user-images.githubusercontent.com/36668690/48109858-f77dea80-e1fd-11e8-8b8b-c38fa0400fa0.gif)
 
 
 https://media.giphy.com/media/4JVQ69mhL0iss5ox2Y/giphy.gif
