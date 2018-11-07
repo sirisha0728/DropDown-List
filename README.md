@@ -184,6 +184,7 @@ https://media.giphy.com/media/4JVQ69mhL0iss5ox2Y/giphy.gif
 
 # Team Members 
 
-1. K.Bala Kavya      (1794948) uploaded project in github through android studio and Readme.md and documentation . 
-2. M.Sirisha         (1794858) design , Readme.md and documentation.  
-3. M.Mahender Reddy  (1794805) Design and code, Readme.md 
+1. M.Mahender Reddy  (1794805) Design and code, Readme.md 
+2. M.Sirisha         (1794858) design , Readme.md and documentation.
+3. K.Bala Kavya      (1794948) uploaded project in github through android studio and Readme.md and documentation .
+
