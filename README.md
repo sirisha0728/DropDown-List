@@ -1,5 +1,5 @@
-## NAME OF THE PROJECT
-# Drop Down List
+# NAME OF THE PROJECT
+## Drop Down List
 ### WHAT IT DOES ?
 
 A drop-down list, similar to a list box, that allows the user to choose one value from a list
@@ -21,11 +21,8 @@ Open res -> layout -> xml (or) activity_main.xml and add following code. Here we
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:background="#FF4400">
 
     <Spinner
         android:id="@+id/simpleSpinner"
@@ -85,7 +82,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 
 
     String[] countryNames={"India","China","Australia","Portugle","America"};
-    int flags[] = {R.drawable.india, R.drawable.china, R.drawable.australia, R.drawable.portugle, R.drawable.america};
+    int flags[] = {R.drawable.india, R.drawable.china, R.drawable.australia, R.drawable.portugle, R.drawable.damerica};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
