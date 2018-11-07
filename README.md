@@ -189,9 +189,9 @@ https://media.giphy.com/media/4JVQ69mhL0iss5ox2Y/giphy.gif
 # Team Members 
 
 1. M.Mahender Reddy  (1794805) Design , code , Readme.md and documentation.
-2.M.Sirisha         (1794858) design , Readme.md and documentation.
+2. M.Sirisha         (1794858) design , Readme.md and documentation.
 3. K.Bala Kavya      (1794948) uploaded project in github through android studio , code,Readme.md ,documentation ..
  
      
- **“Experience is the only _teacher_ we have. we may talk and reason all our lives, but we shall not _understand _a word of truth.”**
+ **“Experience is the only teacher we have. we may talk and reason all our lives, but we shall not understand a word of truth.”**
 
