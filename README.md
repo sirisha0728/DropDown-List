@@ -172,6 +172,10 @@ public class CustomAdapter extends BaseAdapter {
 
 [procedure of project.docx](https://github.com/KavyaReddy95/DropDown-List/files/2555687/procedure.of.project.docx)
 
+## Limitation 
+
+spinner shows the number of items which ever the user given but it collapses the app .So if I want to  show only three items remaining are scrollabe but it doesnt show all the items at atime because of space occupation. So that why by using ArrayAdapter we can display the list.
+
 
 
 ### Output:
